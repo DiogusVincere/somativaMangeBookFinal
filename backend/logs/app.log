@@ -1,0 +1,143 @@
+{"level":"info","message":"Tentativa de registro","password":"teste2","timestamp":"2024-11-07T00:44:58.975Z","username":"teste2"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-07T00:45:07.316Z","username":"teste2"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-07T00:45:07.383Z","username":"teste2"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-07T00:45:23.823Z","username":"teste2"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-07T00:45:23.886Z","username":"teste2"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-07T00:45:28.591Z","username":"teste"}
+{"level":"info","message":"Login bem-sucedido","timestamp":"2024-11-07T00:45:28.658Z","username":"teste"}
+{"level":"info","message":"Tentativa de registro","password":"digo","timestamp":"2024-11-11T22:16:46.448Z","username":"digo"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:17:33.987Z","username":"digo"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:17:34.058Z","username":"digo"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:18:50.643Z","username":"digo"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:18:50.710Z","username":"digo"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:18:51.701Z","username":"digo"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:18:51.770Z","username":"digo"}
+{"level":"info","message":"Tentativa de registro","password":"digo2","timestamp":"2024-11-11T22:19:04.173Z","username":"digo1"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:19:11.307Z","username":"digo1"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:19:11.376Z","username":"digo1"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:19:16.680Z","username":"digo"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:19:16.743Z","username":"digo"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:20:12.493Z","username":"testuser"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:20:12.559Z","username":"testuser"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:20:23.613Z","username":"testuser"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:20:23.678Z","username":"testuser"}
+{"level":"info","message":"Tentativa de registro","password":"digo2","timestamp":"2024-11-11T22:23:09.241Z","username":"digos"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:23:26.930Z","username":"digos"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:23:26.994Z","username":"digos"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:28:59.852Z","username":"digos"}
+{"level":"info","message":"Resultado da comparação de senha: false","timestamp":"2024-11-11T22:28:59.937Z","username":"digos"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:28:59.937Z","username":"digos"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:29:25.516Z","username":"digo"}
+{"level":"info","message":"Resultado da comparação de senha: false","timestamp":"2024-11-11T22:29:25.583Z","username":"digo"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:29:25.584Z","username":"digo"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:31:35.451Z","username":"digo"}
+{"level":"info","message":"Resultado da comparação de senha: false","timestamp":"2024-11-11T22:31:35.587Z","username":"digo"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:31:35.588Z","username":"digo"}
+{"level":"info","message":"Tentativa de registro","password":"lula1","timestamp":"2024-11-11T22:36:59.587Z","username":"lula"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:37:54.655Z","username":"lula"}
+{"level":"info","message":"Resultado da comparação de senha: false","timestamp":"2024-11-11T22:37:54.783Z","username":"lula"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:37:54.784Z","username":"lula"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:43:55.441Z","username":"lula"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:43:55.525Z","username":"lula"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:51:40.428Z","username":"lula"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:51:40.511Z","username":"lula"}
+{"level":"info","message":"Tentativa de registro","password":"lula2","timestamp":"2024-11-11T22:51:50.824Z","username":"lula1"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:52:15.440Z","username":"lula1"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:52:15.509Z","username":"lula1"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T22:55:52.787Z","username":"lula1"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T22:55:52.854Z","username":"lula1"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:00:35.892Z","username":"lula1"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:00:35.974Z","username":"lula1"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:01:09.972Z","username":"lula"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:01:10.041Z","username":"lula"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:01:15.085Z","username":"lula"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:01:15.149Z","username":"lula"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:02:06.146Z","username":"lula1"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:02:06.216Z","username":"lula1"}
+{"level":"info","message":"Tentativa de registro","password":"lula13","timestamp":"2024-11-11T23:03:36.038Z","username":"lula13"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:07:05.393Z","username":"lula13"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:07:05.464Z","username":"lula13"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:10:15.536Z","username":"lula13"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:10:15.608Z","username":"lula13"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:16:05.785Z","username":"lula13"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:16:05.869Z","username":"lula13"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:25:02.282Z","username":"lula13"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:25:02.364Z","username":"lula13"}
+{"level":"info","message":"Tentativa de registro","password":"lula17","timestamp":"2024-11-11T23:26:28.016Z","username":"lula17"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-11T23:26:28.187Z","username":"lula17"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:27:09.247Z","username":"lula17"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:27:09.315Z","username":"lula17"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:27:24.367Z","username":"lula17"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:27:24.434Z","username":"lula17"}
+{"level":"info","message":"Tentativa de registro","password":"lula20","timestamp":"2024-11-11T23:33:25.298Z","username":"lula25"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-11T23:33:25.481Z","username":"lula25"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:33:51.298Z","username":"lula25"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:33:51.368Z","username":"lula25"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:41:53.949Z","username":"lula25"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:41:54.033Z","username":"lula25"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-11T23:43:03.489Z","username":"lula25"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-11T23:43:03.567Z","username":"lula25"}
+{"level":"info","message":"Tentativa de registro","password":"lula90","timestamp":"2024-11-12T00:18:41.424Z","username":"lula90"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T00:18:41.594Z","username":"lula90"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T00:20:22.584Z","username":"lula90"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T00:20:22.667Z","username":"lula90"}
+{"level":"info","message":"Tentativa de registro","password":"eu","timestamp":"2024-11-12T00:28:57.482Z","username":"eu"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T00:28:57.655Z","username":"eu"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T00:29:10.745Z","username":"eu"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T00:29:10.814Z","username":"eu"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T00:41:50.607Z","username":"eu"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T00:41:50.668Z","username":"eu"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T00:41:58.586Z","username":"eu"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T00:41:58.648Z","username":"eu"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T00:42:04.148Z","username":"eu"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T00:42:04.210Z","username":"eu"}
+{"level":"info","message":"Tentativa de registro","password":"teste559","timestamp":"2024-11-12T01:04:41.063Z","username":"teste559"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T01:04:41.235Z","username":"teste559"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:04:56.148Z","username":"teste559"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:04:56.218Z","username":"teste559"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:11:25.436Z","username":"eu"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:11:25.511Z","username":"eu"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:11:26.771Z","username":"eu"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:11:26.834Z","username":"eu"}
+345","timestamp":"2024-11-12T01:10:47.961Z","username":"teste345"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T01:10:48.088Z","username":"teste345"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:10:53.704Z","username":"teste345"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:10:53.776Z","username":"teste345"}
+{"level":"info","message":"Tentativa de registro","password":"teste3451","timestamp":"2024-11-12T01:25:22.568Z","username":"teste3451"}
+{"hashedPassword":"$2a$10$aBA8dDOEGS05uoWAxdH4Se4uzG/qVv4BsSoPTnZ9ojsoWrn96ca.q","level":"info","message":"Hash gerado no registro","timestamp":"2024-11-12T01:25:22.634Z"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T01:25:22.742Z","username":"teste3451"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:25:35.246Z","username":"teste3451"}
+{"isMatch":false,"level":"info","message":"Comparação de senha","timestamp":"2024-11-12T01:25:35.317Z","username":"teste3451"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:25:35.317Z","username":"teste3451"}
+{"level":"info","message":"Tentativa de registro","password":"teste34511","timestamp":"2024-11-12T01:34:07.341Z","username":"teste34511"}
+{"hashedPassword":"$2a$10$3FpTqR5lqhB.UcqWLn5w3u3sY93T6usE8MebtiEI/icPS9q38EMLO","level":"info","message":"Hash gerado no registro","timestamp":"2024-11-12T01:34:07.408Z"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T01:34:07.519Z","username":"teste34511"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:34:14.466Z","username":"teste34511"}
+{"isMatch":false,"level":"info","message":"Comparação de senha","timestamp":"2024-11-12T01:34:14.536Z","username":"teste34511"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:34:14.536Z","username":"teste34511"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:43:41.826Z","username":"teste345112"}
+{"level":"warn","message":"Usuário não encontrado","timestamp":"2024-11-12T01:43:41.838Z","username":"teste345112"}
+{"level":"info","message":"Tentativa de registro","timestamp":"2024-11-12T01:43:50.056Z","username":"teste345112"}
+{"level":"info","message":"Iniciando o hash da senha","timestamp":"2024-11-12T01:43:50.057Z","username":"teste345112"}
+{"hashedPassword":"$2a$10$OLAw83ZBcIpXc.0NX8P5l.PyYNJFLILfeCwfLamaYU5diqeddhHO.","level":"info","message":"Hash gerado no registro","timestamp":"2024-11-12T01:43:50.121Z"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T01:43:50.228Z","username":"teste345112"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:43:53.282Z","username":"teste345112"}
+{"level":"info","message":"Iniciando a comparação da senha","timestamp":"2024-11-12T01:43:53.290Z","username":"teste345112"}
+{"isMatch":false,"level":"info","message":"Comparação de senha","timestamp":"2024-11-12T01:43:53.346Z","username":"teste345112"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:43:53.346Z","username":"teste345112"}
+{"level":"info","message":"Tentativa de registro","timestamp":"2024-11-12T01:50:08.881Z","username":"teste3451123"}
+{"level":"info","message":"Iniciando o hash da senha","timestamp":"2024-11-12T01:50:08.883Z","username":"teste3451123"}
+{"hashedPassword":"$2a$10$xVMRXF84Ub4G5sMrjaemFuvUZukzM5Hpo5B/xnt959G7EU3DIMRiG","level":"info","message":"Hash gerado no registro","timestamp":"2024-11-12T01:50:08.952Z"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T01:50:09.058Z","username":"teste3451123"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:50:11.392Z","username":"teste3451123"}
+{"level":"info","message":"Iniciando a comparação da senha","timestamp":"2024-11-12T01:50:11.406Z","username":"teste3451123"}
+{"isMatch":false,"level":"info","message":"Comparação de senha","timestamp":"2024-11-12T01:50:11.460Z","username":"teste3451123"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:50:11.461Z","username":"teste3451123"}
+{"level":"info","message":"Tentativa de registro","timestamp":"2024-11-12T01:51:43.282Z","username":"teste34511234"}
+{"level":"info","message":"Iniciando o hash da senha","timestamp":"2024-11-12T01:51:43.283Z","username":"teste34511234"}
+{"hashedPassword":"$2a$10$bFx/2/CgkFUFQEMHQ5qR1eIZgjsaOlAOrS04eSsmRPMLZYF5Fti.q","level":"info","message":"Hash gerado no registro","timestamp":"2024-11-12T01:51:43.348Z"}
+{"level":"info","message":"Usuário registrado com sucesso","timestamp":"2024-11-12T01:51:43.456Z","username":"teste34511234"}
+{"level":"info","message":"Tentativa de login","timestamp":"2024-11-12T01:51:45.704Z","username":"teste34511234"}
+{"level":"info","message":"Iniciando a comparação da senha","timestamp":"2024-11-12T01:51:45.719Z","username":"teste34511234"}
+{"isMatch":false,"level":"info","message":"Comparação de senha","timestamp":"2024-11-12T01:51:45.775Z","username":"teste34511234"}
+{"level":"warn","message":"Senha incorreta","timestamp":"2024-11-12T01:51:45.775Z","username":"teste34511234"}
